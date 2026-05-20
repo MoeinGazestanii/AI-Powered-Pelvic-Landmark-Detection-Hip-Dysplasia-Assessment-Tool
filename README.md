@@ -1,6 +1,13 @@
+
+
+
 # AI-Powered Pelvic Landmark Detection & Hip Dysplasia Assessment Tool
 
 An interactive, deep learning-based medical imaging application designed in collaboration with orthopaedic surgeons. This tool automates the detection of critical pelvic landmarks on bilateral X-ray images, calculates key diagnostic angles for **Hip Dysplasia**, and allows specialists to manually fine-tune results via an intuitive user interface.
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/e928664b-3c7d-400e-8539-21f26d95802b" autoplay loop muted playsinline controls width="100%"></video>
+</p>
 
 ---
 
