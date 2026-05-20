@@ -23,6 +23,7 @@ An interactive, deep learning-based medical imaging application designed in coll
 
 ---
 
+
 ## 📊 Monitored Landmarks & Clinical Metrics
 
 ### 1. Detected Landmarks (8 Points)
@@ -44,7 +45,9 @@ The underlying model predicts coordinates on a $512 \times 512$ resolution, whic
 ## 💻 User Interface Workflow
 
 1. **Load Image:** Upload a pelvic digital X-ray image and input the patient's name.
-2. **Run Model:** Execute the deep learning backend (`best_model.pth`) to automatically plot initial landmark estimates.
+2. **Run Model:** Execute the deep learning backend to automatically plot initial landmark estimates.
 3. **Refine & Adjust:** Use the interactive canvas to zoom in and drag-and-drop landmarks to correct any minor layout deviations based on expert judgment.
 4. **Approve & Lock:** Click the **Approve** button to lock landmark coordinates, trigger the geometric angle calculations, and render the multicolored evaluation lines.
 5. **Export Report:** Save comprehensive metrics directly to a secure, unmodifiable PDF document.
+
+> 🔒 **Confidentiality Notice:** The source code and trained model weights are private and confidential due to proprietary project requirements and NDA restrictions. Only the UI layout and deployment architecture are public.
