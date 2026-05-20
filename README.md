@@ -50,5 +50,5 @@ The underlying model predicts coordinates on a $512 \times 512$ resolution, whic
 4. **Approve & Lock:** Click the **Approve** button to lock landmark coordinates, trigger the geometric angle calculations, and render the multicolored evaluation lines.
 5. **Export Report:** Save comprehensive metrics directly to a secure, unmodifiable PDF document.
 
-
+---
 🔒 **Confidentiality Notice:** <span style="color:red">The source code and trained model weights are private and confidential due to proprietary project requirements and NDA restrictions. Only the UI layout and deployment architecture are public.</span>
