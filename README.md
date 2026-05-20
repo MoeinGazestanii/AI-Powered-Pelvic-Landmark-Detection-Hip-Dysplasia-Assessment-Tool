@@ -51,4 +51,4 @@ The underlying model predicts coordinates on a $512 \times 512$ resolution, whic
 5. **Export Report:** Save comprehensive metrics directly to a secure, unmodifiable PDF document.
 
 ---
-🔒 **Confidentiality Notice:** <span style="color:red">The source code and trained model weights are private and confidential due to proprietary project requirements and NDA restrictions. Only the UI layout and deployment architecture are public.</span>
+🔒 **Confidentiality Notice:** <samp>The source code and trained model weights are private and confidential due to proprietary project requirements and NDA restrictions. Only the UI layout and deployment architecture are public.</samp>
